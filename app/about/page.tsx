@@ -31,7 +31,8 @@ export default function About() {
              Hi! I'm Joey G. Parado, a second-year Bachelor of Science in Information Technology (BSIT) student with a passion for technology and web development
                      <p>
            
-          </p> My goal is to become a skilled Full-Stack Developer capable of building complete, innovative, and efficient software solutions. I'm always eager to learn, embrace new challenges, and grow as an IT professional.
+          </p>
+           My goal is to become a skilled Full-Stack Developer capable of building complete, innovative, and efficient software solutions. I'm always eager to learn, embrace new challenges, and grow as an IT professional.
           <p>
             I am currently learning both Frontend and Backend Development, exploring how to build responsive, user-friendly websites alongside functional, end-to-end web applications. Through continuous practice, exploring new technologies, and creating personal projects, I am actively honing my programming skills and gaining hands-on experience.
           </p>

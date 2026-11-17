@@ -21,7 +21,7 @@ export default function Contact() {
               <Mail className="h-5 w-5 text-primary" />
               <div>
                 <p className="text-xs text-muted-foreground font-medium">Email</p>
-                <p className="text-sm font-semibold">tmanacob@gbox.ncf.edu.ph</p>
+                <p className="text-sm font-semibold">jparado@gbox.ncf.edu.ph</p>
               </div>
             </CardContent>
           </Card>
@@ -31,7 +31,7 @@ export default function Contact() {
               <Phone className="h-5 w-5 text-primary" />
               <div>
                 <p className="text-xs text-muted-foreground font-medium">Phone</p>
-                <p className="text-sm font-semibold">09068874636</p>
+                <p className="text-sm font-semibold">09634987093</p>
               </div>
             </CardContent>
           </Card>
@@ -41,7 +41,7 @@ export default function Contact() {
               <MapPin className="h-5 w-5 text-primary" />
               <div>
                 <p className="text-xs text-muted-foreground font-medium">Location</p>
-                <p className="text-sm font-semibold">Naga City, Philippines</p>
+                <p className="text-sm font-semibold">Milaor, Philippines</p>
               </div>
             </CardContent>
           </Card>
@@ -57,11 +57,11 @@ export default function Contact() {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div className="space-y-2">
                   <label htmlFor="name" className="text-sm font-medium">Name</label>
-                  <Input id="name" placeholder="Tristan V. Manacob" required />
+                  <Input id="name" placeholder="Joey G. Parado" required />
                 </div>
                 <div className="space-y-2">
                   <label htmlFor="email" className="text-sm font-medium">Email</label>
-                  <Input id="email" type="email" placeholder="tmanacob@gbox.ncf.edu.ph" required />
+                  <Input id="email" type="email" placeholder="jparado@gbox.ncf.edu.ph" required />
                 </div>
               </div>
 

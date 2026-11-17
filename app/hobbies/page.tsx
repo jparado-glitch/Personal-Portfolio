@@ -26,7 +26,7 @@ const hobbies = [
   {
     title: "Sports",
     icon: Trophy,
-    description: "Playing Sepak Takraw and in 2023 I was played at National PRISAA in Zamboanga City.",
+    description: "Playing running and basketball.",
   },
 ];
 
