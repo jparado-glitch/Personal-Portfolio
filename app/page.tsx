@@ -38,7 +38,7 @@ export default function Home() {
         </Badge>
  
         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
-          Hi, I&apos;m Tristan Manacob.
+          Hi, I&apos;m Joey G. Parado.
         </h1>
  
         <p className="max-w-xl text-lg leading-relaxed text-muted-foreground">

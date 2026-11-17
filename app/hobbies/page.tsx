@@ -5,7 +5,7 @@ const hobbies = [
   {
     title: "Photography",
     icon: Camera,
-    description: "capturing the nature.",
+    description: "capturing the island and nature.",
   },
   {
     title: "Gaming",
@@ -15,7 +15,7 @@ const hobbies = [
   {
     title: "Music",
     icon: Music,
-    description: "listening music like guddhist, chocolate factory, and many more.",
+    description: "listening music like arthur nery, adie songs, and many more.",
   },
   
   {

@@ -3,11 +3,11 @@ import { GraduationCap, Award } from "lucide-react";
 
 const educationList = [
   {
-    degree: "General Academic Strand",
-    institution: "NAGA Collge Foundation",
+    degree: "Mobile and Web Development",
+    institution: "ST",
     period: "2022 - 2025",
     description: "focused on all Strand.",
-    achievements: ["with honor"],
+    achievements: ["academic achivement"],
   },
   {
     degree: "BS in Information Technology",
