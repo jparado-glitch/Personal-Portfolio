@@ -4,7 +4,7 @@ import { GraduationCap, Award } from "lucide-react";
 const educationList = [
   {
     degree: "Mobile and Web Development",
-    institution: "ST",
+    institution: "STI College of Naga",
     period: "2022 - 2025",
     description: "focused on all Strand.",
     achievements: ["academic achivement"],
